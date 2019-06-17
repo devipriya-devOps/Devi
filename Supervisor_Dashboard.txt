@@ -1,0 +1,88 @@
+Understanding of this user story:Supervisor will monitor SLA time of the agent for the chat handled time.
+
+Pre-requisite: User should be added to Supervisor group, Agents should be added under supervisor
+
+
+Log into SFDC 
+Supervisor logs into SFDC
+
+Click on Home page object Drop down 
+Supervisor able to view below components
+1.Home
+2.Cases
+3.Assets
+4.Contacts 
+5.Accounts
+6.Reports
+7.Dashbaords
+8.LiveAgent Supervisor
+9.Omni Supervisor
+
+
+
+Click on Dashboard 
+Dashboard content is displayed
+
+Click on Shared With Me under dashboards
+
+
+Click on Dell Supervisor Dashboards
+
+Click on Chat Supervisor
+
+Supervisor can view below components
+1.Average Chat Duration
+2.Longest Chat Duration
+3.Average Wrap-Up Time
+4.Agent Availability
+5.Chat Sessions by Status
+6.Number of Chat Transfers
+7.Completed Chat Sessions
+8.Abandoned Chat Sessions
+9.SLA - Average Handle Time- Location
+10.SLA - Max Handle Time
+11.Daily Average Wait Time
+12.Daily Max Wait Time
+13.Wait Time Range
+14.Customer Cancelled Chat Requests
+15.Timed-Out Chat Transfers
+16.Disconnected Chat Requests
+
+Veiw the below mentioned graph for the SLA time
+
+SLA - Average Handle Time- Location
+SLA - Max Handle Time
+Daily Average Wait Time
+Daily Max Wait Time
+
+
+Click on View Report for SLA - Average Handle Time- Location dashboard component in chat supervisor dashboard(For viewing and filtering based on dates)
+Supervisor able to view Agents SLA - Average Handle Time- Location  
+
+Supervisor can view
+Toggle Chart
+Filter
+Refresh
+Settings
+
+
+Click on the Toggle chart
+Supervisor able to view the table format
+On click of Toggle chart
+Supervisor able to view the graph and the table format
+
+Click on the Filter Icon
+Show Me has the value of All Agent work
+
+Accept Date has the default value "This week"
+Service Channel has the default value "contains liveagent"
+Agent Location has the default value of "not equal to "" "
+Queue Name has the default value of "contains Americas_Enterprise"
+
+Repeat the Click on View Report for the below component
+
+SLA - Max Handle Time
+Daily Average Wait Time
+Daily Max Wait Time
+
+
